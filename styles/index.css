@@ -1,0 +1,19 @@
+/* index.css */
+
+/* Reset CSS */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
+
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+/* Example: */
+/* .container {
+ *   max-width: 1200px;
+ *   margin: 0 auto;
+ *   padding: 0 20px;
+ * } */
+
+/* Your additional custom CSS styles go here */
